@@ -1,0 +1,14 @@
+C:\Users\Leandro\source\repos\Leandro\Leandro\bin\Debug\netcoreapp3.1\Leandro.exe
+C:\Users\Leandro\source\repos\Leandro\Leandro\bin\Debug\netcoreapp3.1\Leandro.deps.json
+C:\Users\Leandro\source\repos\Leandro\Leandro\bin\Debug\netcoreapp3.1\Leandro.runtimeconfig.json
+C:\Users\Leandro\source\repos\Leandro\Leandro\bin\Debug\netcoreapp3.1\Leandro.runtimeconfig.dev.json
+C:\Users\Leandro\source\repos\Leandro\Leandro\bin\Debug\netcoreapp3.1\Leandro.dll
+C:\Users\Leandro\source\repos\Leandro\Leandro\bin\Debug\netcoreapp3.1\Leandro.pdb
+C:\Users\Leandro\source\repos\Leandro\Leandro\obj\Debug\netcoreapp3.1\Leandro.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\Leandro\Leandro\obj\Debug\netcoreapp3.1\Leandro.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\Leandro\Leandro\obj\Debug\netcoreapp3.1\Leandro.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\Leandro\Leandro\obj\Debug\netcoreapp3.1\Leandro.dll
+C:\Users\Leandro\source\repos\Leandro\Leandro\obj\Debug\netcoreapp3.1\Leandro.pdb
+C:\Users\Leandro\source\repos\Leandro\Leandro\obj\Debug\netcoreapp3.1\Leandro.genruntimeconfig.cache
+C:\Users\Leandro\source\repos\Leandro\Leandro\obj\Debug\netcoreapp3.1\Leandro.csproj.AssemblyReference.cache
+C:\Users\Leandro\source\repos\Leandro\Leandro\obj\Debug\netcoreapp3.1\Leandro.GeneratedMSBuildEditorConfig.editorconfig
